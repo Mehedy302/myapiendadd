@@ -1,1 +1,1 @@
-http://b7c4-35-185-29-78.ngrok.io/ocr/v1/
+http://11c3-35-185-12-167.ngrok.io/ocr/v1/
