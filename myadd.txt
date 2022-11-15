@@ -1,1 +1,1 @@
-http://638e-35-185-12-167.ngrok.io/ocr/v1/
+http://72da-35-231-187-128.ngrok.io/ocr/v1/
